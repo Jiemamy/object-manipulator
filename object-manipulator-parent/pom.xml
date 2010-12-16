@@ -10,12 +10,12 @@
   <artifactId>object-manipulator-parent</artifactId>
   <packaging>pom</packaging>
   <name>Object Property Manipulations - Parent</name>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <inceptionYear>2007</inceptionYear>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-parent</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-parent</developerConnection>
-    <url>http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-parent</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</developerConnection>
+    <url>http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</url>
   </scm>
   <modules>
     <module>../object-manipulator-generator</module>

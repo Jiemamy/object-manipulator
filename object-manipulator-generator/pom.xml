@@ -9,7 +9,7 @@
   <groupId>org.jiemamy</groupId>
   <artifactId>object-manipulator-generator</artifactId>
   <name>Object Property Manipulations - Generator</name>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <ciManagement>
     <system>hudson</system>
     <url>http://hudson.jiemamy.org/job/object-manipulator-generator/</url>
@@ -33,9 +33,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-generator</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-generator</developerConnection>
-    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-generator</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-generator</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-generator</developerConnection>
+    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/trunk/object-manipulator-generator</url>
   </scm>
   <dependencies>
     <dependency>

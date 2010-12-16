@@ -9,7 +9,7 @@
   <groupId>org.jiemamy</groupId>
   <artifactId>object-manipulator-core</artifactId>
   <name>Object Property Manipulations - Core</name>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <issueManagement>
     <system>JIRA</system>
     <url>http://jira.jiemamy.org/browse/OBJM</url>
@@ -37,9 +37,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-core</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-core</developerConnection>
-    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-core</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-core</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/object-manipulator/trunk/object-manipulator-core</developerConnection>
+    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/trunk/object-manipulator-core</url>
   </scm>
   <dependencies>
     <dependency>
