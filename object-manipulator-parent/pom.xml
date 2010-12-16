@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <parent>
     <artifactId>jiemamy-master</artifactId>
     <groupId>org.jiemamy</groupId>
@@ -12,12 +10,12 @@
   <artifactId>object-manipulator-parent</artifactId>
   <packaging>pom</packaging>
   <name>Object Property Manipulations - Parent</name>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <inceptionYear>2007</inceptionYear>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</developerConnection>
-    <url>http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-parent</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-parent</developerConnection>
+    <url>http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-parent</url>
   </scm>
   <modules>
     <module>../object-manipulator-generator</module>

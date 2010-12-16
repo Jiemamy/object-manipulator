@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <parent>
     <groupId>org.jiemamy</groupId>
     <artifactId>jiemamy-master</artifactId>
@@ -12,12 +10,12 @@
   <artifactId>object-manipulator</artifactId>
   <packaging>pom</packaging>
   <name>Object Property Manipulations - Root</name>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <inceptionYear>2007</inceptionYear>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk</developerConnection>
-    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/trunk</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0</developerConnection>
+    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/tags/object-manipulator-0.1.0</url>
   </scm>
   <modules>
     <module>object-manipulator-parent</module>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <parent>
     <groupId>org.jiemamy</groupId>
     <artifactId>jiemamy-master</artifactId>
@@ -11,7 +9,7 @@
   <groupId>org.jiemamy</groupId>
   <artifactId>object-manipulator-generator</artifactId>
   <name>Object Property Manipulations - Generator</name>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <ciManagement>
     <system>hudson</system>
     <url>http://hudson.jiemamy.org/job/object-manipulator-generator/</url>
@@ -35,9 +33,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-generator</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-generator</developerConnection>
-    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/trunk/object-manipulator-generator</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-generator</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-generator</developerConnection>
+    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/tags/object-manipulator-0.1.0/object-manipulator-generator</url>
   </scm>
   <dependencies>
     <dependency>
