@@ -14,6 +14,11 @@
   <name>Object Property Manipulations - Parent</name>
   <version>0.1.0-SNAPSHOT</version>
   <inceptionYear>2007</inceptionYear>
+  <scm>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</developerConnection>
+    <url>http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-parent</url>
+  </scm>
   <modules>
     <module>../object-manipulator-generator</module>
     <module>../object-manipulator-core</module>
@@ -21,8 +26,8 @@
   <repositories>
     <repository>
       <id>jiemamy</id>
-      <name>Jiemamy Release Repository</name>
-      <url>http://maven.jiemamy.org/release/</url>
+      <name>Jiemamy Repository</name>
+      <url>http://maven.jiemamy.org/release</url>
     </repository>
   </repositories>
 </project>
