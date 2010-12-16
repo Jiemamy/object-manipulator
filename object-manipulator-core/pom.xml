@@ -9,7 +9,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jiemamy</groupId>
-  <artifactId>object-manipulator</artifactId>
+  <artifactId>object-manipulator-core</artifactId>
   <name>Object Property Manipulations</name>
   <version>0.1.0-SNAPSHOT</version>
   <issueManagement>
@@ -18,7 +18,7 @@
   </issueManagement>
   <ciManagement>
     <system>hudson</system>
-    <url>http://hudson.jiemamy.org/job/object-manipulator/</url>
+    <url>http://hudson.jiemamy.org/job/object-manipulator-core/</url>
     <notifiers>
       <notifier>
         <sendOnSuccess>false</sendOnSuccess>
@@ -39,9 +39,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk</developerConnection>
-    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/trunk</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-core</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/object-manipulator/trunk/object-manipulator-core</developerConnection>
+    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/trunk/object-manipulator-core</url>
   </scm>
   <dependencies>
     <dependency>

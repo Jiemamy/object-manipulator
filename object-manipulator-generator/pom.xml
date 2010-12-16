@@ -35,9 +35,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator-generator/trunk</connection>
-    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator-generator/trunk</developerConnection>
-    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator-generator/trunk</url>
+    <connection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-generator</connection>
+    <developerConnection>scm:svn:http://svn.jiemamy.org/products/leto/object-manipulator/trunk/object-manipulator-generator</developerConnection>
+    <url>http://fisheye.jiemamy.org/browse/leto/object-manipulator/trunk/object-manipulator-generator</url>
   </scm>
   <dependencies>
     <dependency>
