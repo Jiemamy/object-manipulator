@@ -15,8 +15,8 @@
     <url>http://jira.jiemamy.org/browse/OBJM</url>
   </issueManagement>
   <ciManagement>
-    <system>hudson</system>
-    <url>http://hudson.jiemamy.org/job/object-manipulator-core/</url>
+    <system>bamboo</system>
+    <url>http://bamboo.jiemamy.org/browse/OBJM-DEF</url>
     <notifiers>
       <notifier>
         <sendOnSuccess>false</sendOnSuccess>

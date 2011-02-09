@@ -11,8 +11,8 @@
   <name>Object Property Manipulations - Generator</name>
   <version>0.1.1-SNAPSHOT</version>
   <ciManagement>
-    <system>hudson</system>
-    <url>http://hudson.jiemamy.org/job/object-manipulator-generator/</url>
+    <system>bamboo</system>
+    <url>http://bamboo.jiemamy.org/browse/OBJM-DEF</url>
     <notifiers>
       <notifier>
         <sendOnSuccess>false</sendOnSuccess>
