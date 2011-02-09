@@ -24,7 +24,7 @@ import java.lang.annotation.Target;
 /**
  * {@code Kind}を自動生成すべき対象につけられる注釈。
  * 
- * @version $Date: 2009-11-20 22:36:08 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 @Documented

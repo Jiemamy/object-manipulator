@@ -22,7 +22,7 @@ import org.jiemamy.utils.functor.Functor;
 /**
  * オブジェクトが持つプロパティの表現。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <K> プロパティを保持するカインド
  * @param <T> プロパティの型

@@ -28,7 +28,7 @@ import org.jiemamy.utils.object.manipulate.core.AbstractKind;
 /**
  * {@code public}フィールドを基にしたカインド。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <K> フィールドを提供するクラスの型
  */

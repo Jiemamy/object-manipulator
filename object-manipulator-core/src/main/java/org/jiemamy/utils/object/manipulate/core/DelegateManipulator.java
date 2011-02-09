@@ -23,7 +23,7 @@ import org.jiemamy.utils.object.manipulate.Manipulator;
 /**
  * {@link Editor}, {@link Functor}にそれぞれの処理を移譲する{@link Manipulator}の実装。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <D> 操作対象のオブジェクトの型
  * @param <S> 操作引数の型

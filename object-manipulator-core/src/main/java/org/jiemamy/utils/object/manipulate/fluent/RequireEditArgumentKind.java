@@ -20,7 +20,7 @@ import org.jiemamy.utils.object.manipulate.Kind;
 /**
  * 操作引数のカインドを指定する。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <D> 操作引数の型
  */

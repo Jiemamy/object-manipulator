@@ -24,7 +24,7 @@ import org.jiemamy.utils.functor.core.AbstractGenerator;
 /**
  * {@link Class#newInstance()}によってインスタンスを生成する。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <T> 生成するインスタンスの型
  */

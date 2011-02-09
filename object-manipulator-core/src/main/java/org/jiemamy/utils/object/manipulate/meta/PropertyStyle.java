@@ -18,7 +18,7 @@ package org.jiemamy.utils.object.manipulate.meta;
 /**
  * プロパティの形式。
  * 
- * @version $Date: 2009-11-20 22:36:08 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 public enum PropertyStyle {

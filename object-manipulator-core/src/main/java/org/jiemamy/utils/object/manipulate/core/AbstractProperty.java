@@ -25,7 +25,7 @@ import org.jiemamy.utils.object.manipulate.Property;
 /**
  * {@link Property}の骨格実装。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <K> プロパティを保持するカインド
  * @param <T> プロパティの型

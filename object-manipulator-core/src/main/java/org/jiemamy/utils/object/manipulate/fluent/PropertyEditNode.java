@@ -22,7 +22,7 @@ import org.jiemamy.utils.object.manipulate.Kind;
 /**
  * {@link PropertyEdit}のチェインを保持する。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <D> プロパティを保持する{@link Kind}
  * @param <S> オブジェクト全体を操作する引数の型

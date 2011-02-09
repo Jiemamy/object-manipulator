@@ -25,7 +25,7 @@ import org.jiemamy.utils.object.manipulate.core.DelegateManipulator;
 /**
  * 構築結果の形式を選択する。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <D> 操作対象の型
  * @param <S> 操作引数の型

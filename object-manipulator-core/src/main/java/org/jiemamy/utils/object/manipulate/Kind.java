@@ -20,7 +20,7 @@ import java.util.Collection;
 /**
  * {@link Property}を保持する型の表現(カインド)。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <T> 対応するJava上の型
  */

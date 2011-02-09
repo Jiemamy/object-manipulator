@@ -18,7 +18,7 @@ package org.jiemamy.utils.object.manipulate.meta;
 /**
  * シンボルの名称に関する定数一覧。
  * 
- * @version $Date: 2009-11-21 23:34:28 +0900 (土, 21 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 public interface Names {

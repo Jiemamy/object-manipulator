@@ -22,7 +22,7 @@ import org.jiemamy.utils.object.manipulate.core.AbstractProperty;
 /**
  * フィールドが表現するプロパティ。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <K> プロパティを保持するカインド
  * @param <T> プロパティの型

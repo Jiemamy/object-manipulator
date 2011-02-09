@@ -30,7 +30,7 @@ import com.sun.mirror.util.Types;
 /**
  * このパッケージで利用するユーティリティ群。
  * 
- * @version $Date: 2009-11-21 23:34:28 +0900 (土, 21 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 @SuppressWarnings("restriction")

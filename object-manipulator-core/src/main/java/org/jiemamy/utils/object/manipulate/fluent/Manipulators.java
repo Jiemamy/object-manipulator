@@ -21,7 +21,7 @@ import org.jiemamy.utils.object.manipulate.Manipulator;
 /**
  * {@link Manipulator}を構築するための、流れるようなインターフェース。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 public final class Manipulators {

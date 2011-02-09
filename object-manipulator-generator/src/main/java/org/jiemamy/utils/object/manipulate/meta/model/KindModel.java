@@ -33,7 +33,7 @@ import com.sun.mirror.type.DeclaredType;
 /**
  * カインドをモデル化したオブジェクト。
  * 
- * @version $Date: 2009-11-21 23:34:28 +0900 (土, 21 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 @SuppressWarnings("restriction")

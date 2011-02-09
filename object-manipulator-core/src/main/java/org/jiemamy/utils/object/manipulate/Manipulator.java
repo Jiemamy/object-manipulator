@@ -21,7 +21,7 @@ import org.jiemamy.utils.functor.Functor;
 /**
  * Manipulator.
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <D> 操作対象のオブジェクトの型
  * @param <S> 操作引数の型
